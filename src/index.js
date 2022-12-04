@@ -1,2 +1,1 @@
-import './styles/main.scss'
-alert('я тут');
+import './styles/main.scss';
